@@ -17,7 +17,7 @@
 </a>
 
 ## ✏️ 사용해본 것
-<p style="font-size:5px;">Jupyter NoteBook, Flutter, Flask, Docker, AWS EC2, HTML, CSS, JavaScript</p>
+Jupyter NoteBook, Flutter, Flask, Docker, AWS EC2, HTML, CSS, JavaScript
 
 #
 
