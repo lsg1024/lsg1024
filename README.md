@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsg1024&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsg1024&show_icons=true&theme=merko)
 
 <h2 dir="auto">
   <a></a>
