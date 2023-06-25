@@ -17,7 +17,7 @@
 </a>
 
 ## ✏️ 사용해본 것
-Jupyter NoteBook, Flutter, Flask, Docker, AWS EC2, HTML, CSS, JavaScript
+<p dir="auto">Jupyter NoteBook, Flutter, Flask, Docker, AWS EC2, HTML, CSS, JavaScript</p>
 
 #
 
