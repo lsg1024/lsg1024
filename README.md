@@ -19,7 +19,7 @@
 
 #
 
-✏️ 사용해본 것
+✏️ 사용해본 것 <br>
 JupterNote, Flutter, Flask, Docker, AWS EC2, HTML, CSS, JavaScript
 
 #
