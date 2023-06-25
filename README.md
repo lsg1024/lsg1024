@@ -1,8 +1,4 @@
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsg1024&layout=compact&theme=merko)
-</div>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lsg1024&show_icons=true&theme=tokyonight)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsg1024&layout=compact&theme=merko)
 
