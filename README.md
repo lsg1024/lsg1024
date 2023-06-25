@@ -1,5 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsg1024&show_icons=true&theme=merko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsg1024&layout=compact&theme=merko)
 <h2 dir="auto">
   <a>
   
