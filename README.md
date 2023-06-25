@@ -17,7 +17,7 @@
 </a>
 
 <h2>✏️ 사용해본 것</h2>
-<p>JupterNote, Flutter, Flask, Docker, AWS EC2, HTML, CSS, JavaScript</p>
+<p>Juypter NoteBook, Flutter, Flask, Docker, AWS EC2, HTML, CSS, JavaScript</p>
 
 #
 
