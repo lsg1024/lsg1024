@@ -18,7 +18,7 @@
 </a>
 
 <h3>✏️ 사용해본 것</h3>
-<p dir="auto">Jupyter NoteBook, Flutter, Flask, Docker, AWS EC2</p>
+<p dir="auto"> Flutter, Flask, Docker, AWS EC2</p>
 
 #
 
