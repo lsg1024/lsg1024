@@ -18,7 +18,7 @@
 </a>
 
 <h3>✏️ 사용해본 것</h3>
-<p dir="auto"> Flask, Docker </p>
+<p dir="auto"> Flask, Docker</p>
 
 #
 
